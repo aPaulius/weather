@@ -11,3 +11,5 @@
 /vendor/
 /bin/
 /composer.phar
+/app/config/routing.yml~
+/src/AppBundle/Controller/WeatherController.php~
