@@ -1,4 +1,0 @@
-app:
-    resource: "@AppBundle/Controller/"
-p
-    type:     annotation
